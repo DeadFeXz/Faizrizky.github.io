@@ -1,0 +1,110 @@
+nav {
+margin:auto;
+text-align: center;
+width: 100%;
+font-family: Arial, Helvetica, sans-serif ;
+} 
+
+nav ul {
+    background:rgb(54, 54, 255);
+    padding: 0 20px;
+    list-style: none;
+    position: relative;
+    display: inline-table;
+    width: 100%;
+    }
+
+nav ul li{
+    float: right;
+}
+
+nav ul li:hover{
+    background:white;
+}
+
+nav ul li:hover a{
+        color:#000;
+}
+
+nav ul li a{
+        display: block;
+        padding: 25px;
+        color: #fff;
+        text-decoration: none;
+    }
+    
+    .pahamify{
+        float: left;
+    }
+
+.created{
+    align-items: center;
+    display: inline;
+    margin: 5px;
+    padding: 190px;
+}
+
+
+.pertama{
+         
+color: #4d4d4d;
+font-size: 30px;
+margin-bottom: 0;
+}
+
+.kedua{
+         
+    color: #4d4d4d;
+    font-size: 30px;
+    margin-bottom: 0;
+    }
+
+
+.ketiga{
+         
+    color: #4d4d4d;
+    font-size: 30px;
+    margin-bottom: 0;
+    }
+
+    
+
+.Katapertama{
+    
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #4d4d4d;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 2;
+
+}
+
+.Katakedua{
+    
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #4d4d4d;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 2;
+}
+
+.Kataketiga{
+    
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #4d4d4d;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 2;
+
+
+}
+
+.pembuat{
+    text-align: right;
+}
